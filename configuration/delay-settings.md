@@ -1,14 +1,11 @@
 ---
-title: Home
-layout: home
+title: Delay Settings
+layout: default
+parent: Configuration
 nav_order: 1
 ---
 
-Hello World
-
-## Configuration
-
-### Delay Settings
+## Delay Settings
 
 This section allows you to manage your message delay settings for WhatsApp bulk sender campaigns effectively. The settings provide options such as:
 
@@ -17,4 +14,4 @@ This section allows you to manage your message delay settings for WhatsApp bulk 
 
 Below is the interface for managing Delay Settings:
 
-![Delay Settings Screenshot](https://solutions-guru-india.s3.ap-south-1.amazonaws.com/LICENSING-SERVER/delay-settings.png)
+![Delay Settings Screenshot](https://solutions-guru-india.s3.ap-south-1.amazonaws.com/LICENSING-SERVER/delay-settings.png) 
