@@ -1,5 +1,5 @@
-$base-font-family: 'Roboto', sans-serif;
-$heading-font-family: 'Source Code Pro', monospace;
+$base-font-family: 'DM Sans', sans-serif;
+$heading-font-family: 'DM Serif Text', serif;
 
 body {
     font-family: $base-font-family;
@@ -8,4 +8,8 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     font-family: $heading-font-family;
+}
+
+.aux-nav {
+    display: none !important;
 }

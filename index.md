@@ -4,17 +4,18 @@ layout: home
 nav_order: 1
 ---
 
-Hello World
+# Welcome to WhatsApp Bulk Sender Documentation
 
-## Configuration
+WhatsApp Bulk Sender is a powerful tool designed to streamline your communication needs. Below are the key features and functionalities:
 
-### Delay Settings
+## Key Features
 
-This section allows you to manage your message delay settings for WhatsApp bulk sender campaigns effectively. The settings provide options such as:
+- **Activation**: Easily activate the product using your unique activation key. Supports single-device activation for enhanced security.
+- **Adding WhatsApp Accounts**: Add multiple WhatsApp accounts and log in to start using them seamlessly.
+- **Delay Settings**: Configure delay settings to optimize message sending and avoid spam detection.
+- **Create Campaigns**: Design and manage campaigns to send bulk messages efficiently.
+- **Start Campaigns**: Launch campaigns with ease and monitor their progress.
+- **Groups and Contacts**: Manage groups and contacts effectively for targeted communication.
 
-- Waiting a specified number of seconds after every set number of messages.
-- Adding intervals before sending individual messages.
+Explore the documentation to learn more about each feature and get started with WhatsApp Bulk Sender today!
 
-Below is the interface for managing Delay Settings:
-
-![Delay Settings Screenshot](https://solutions-guru-india.s3.ap-south-1.amazonaws.com/LICENSING-SERVER/delay-settings.png)
